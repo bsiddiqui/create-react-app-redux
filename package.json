@@ -1,4 +1,8 @@
 {
+  "name": "bsiddiqui",
+  "version": "0.0.1",
+  "description": "bsiddiqui app",
+  "author": "Basil Siddiqui <basil.siddiqui@gmail.com",
   "private": true,
   "homepage": "https://create-react-app-redux.now.sh",
   "scripts": {
