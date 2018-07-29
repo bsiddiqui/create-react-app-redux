@@ -10,13 +10,14 @@
     "start": "react-scripts start",
     "now-start": "serve -s ./build",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "standard && react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "precommit": "pretty-quick --staged"
   },
   "devDependencies": {
     "prettier": "1.13.7",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "standard": "^11.0.1"
   },
   "dependencies": {
     "connected-react-router": "4.3.0",
