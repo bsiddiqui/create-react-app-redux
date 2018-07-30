@@ -15,9 +15,9 @@
     "precommit": "pretty-quick --staged"
   },
   "devDependencies": {
-    "prettier": "1.13.7",
-    "react-scripts": "1.1.4",
-    "standard": "^11.0.1"
+    "standard": "^11.0.1",
+    "prettier": "1.14.0",
+    "react-scripts": "1.1.4"
   },
   "dependencies": {
     "connected-react-router": "4.3.0",
